@@ -12,7 +12,7 @@ function App() {
         <section className="hero">
           <p className="tag">CONTINUOUS INTEGRATION</p>
 
-          <h1>My React CI Demo 🚀</h1>
+          <h1>suchet's React CI Demo 🚀</h1>
 
           <p className="description">
             This is a demo React application created to learn
@@ -78,6 +78,5 @@ function App() {
     </div>
   );
 }
-
 
 export default App;
